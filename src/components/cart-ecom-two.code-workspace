@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../backend-cart"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "cart-backend"
+	}
+}
